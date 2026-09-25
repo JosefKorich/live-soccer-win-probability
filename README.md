@@ -56,8 +56,8 @@ The numerical CTMC solution agrees with the closed-form Skellam benchmark, provi
 ├── notebooks/
 │   └── live_win_probability.ipynb
 ├── figures/
-│   ├── home_wdl_curve.png
-│   └── score_diff_distribution.png
+│   ├── home_wdl_curve.svg
+│   └── score_diff_distribution.svg
 └── data/
     └── README.md              # data sources and reproducibility notes
 ```
