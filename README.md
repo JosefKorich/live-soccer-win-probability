@@ -146,4 +146,4 @@ Python · NumPy · pandas · SciPy · Matplotlib · StatsBombPy · Jupyter
 
 ## Author
 
-**Josef Sarfati Korich**
+**Josef Sarfati Korich** and **Gabriel Nelson**
