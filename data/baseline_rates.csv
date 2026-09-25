@@ -1,0 +1,3 @@
+context,team_rate_per_min,opponent_rate_per_min,team_goals_per_90,opponent_goals_per_90,n_matches_total
+home,0.016547,0.008961,1.49,0.81,372
+away,0.010872,0.012724,0.98,1.15,372
