@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="430" viewBox="0 0 800 430">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#222}.axis{stroke:#333;stroke-width:1.2}.grid{stroke:#ddd;stroke-width:1}.bar{fill:#4c78a8}</style>
+<text x="400" y="26" text-anchor="middle" font-size="20" font-weight="600">Final Score-Difference Distribution</text>
+<line class="grid" x1="65" y1="375" x2="775" y2="375"/><text x="55" y="379" text-anchor="end" font-size="11">0.00</text>
+<line class="grid" x1="65" y1="292.5" x2="775" y2="292.5"/><text x="55" y="296.5" text-anchor="end" font-size="11">0.07</text>
+<line class="grid" x1="65" y1="210" x2="775" y2="210"/><text x="55" y="214" text-anchor="end" font-size="11">0.15</text>
+<line class="grid" x1="65" y1="127.5" x2="775" y2="127.5"/><text x="55" y="131.5" text-anchor="end" font-size="11">0.22</text>
+<line class="grid" x1="65" y1="45" x2="775" y2="45"/><text x="55" y="49" text-anchor="end" font-size="11">0.29</text>
+<rect class="bar" x="71.6" y="374.9" width="34.1" height="0.1" rx="2"/><text x="88.7" y="395" text-anchor="middle" font-size="11">-6</text>
+<rect class="bar" x="119" y="374.6" width="34.1" height="0.4" rx="2"/><text x="136" y="395" text-anchor="middle" font-size="11">-5</text>
+<rect class="bar" x="166.3" y="372.5" width="34.1" height="2.5" rx="2"/><text x="183.3" y="395" text-anchor="middle" font-size="11">-4</text>
+<rect class="bar" x="213.6" y="361.8" width="34.1" height="13.2" rx="2"/><text x="230.7" y="395" text-anchor="middle" font-size="11">-3</text>
+<rect class="bar" x="261" y="321.3" width="34.1" height="53.7" rx="2"/><text x="278" y="395" text-anchor="middle" font-size="11">-2</text>
+<rect class="bar" x="308.3" y="217.4" width="34.1" height="157.6" rx="2"/><text x="325.3" y="395" text-anchor="middle" font-size="11">-1</text>
+<rect class="bar" x="355.6" y="80.4" width="34.1" height="294.6" rx="2"/><text x="372.7" y="395" text-anchor="middle" font-size="11">0</text>
+<rect class="bar" x="403" y="84" width="34.1" height="291" rx="2"/><text x="420" y="395" text-anchor="middle" font-size="11">1</text>
+<rect class="bar" x="450.3" y="191.8" width="34.1" height="183.2" rx="2"/><text x="467.3" y="395" text-anchor="middle" font-size="11">2</text>
+<rect class="bar" x="497.6" y="291.9" width="34.1" height="83.1" rx="2"/><text x="514.7" y="395" text-anchor="middle" font-size="11">3</text>
+<rect class="bar" x="545" y="345.8" width="34.1" height="29.2" rx="2"/><text x="562" y="395" text-anchor="middle" font-size="11">4</text>
+<rect class="bar" x="592.3" y="366.6" width="34.1" height="8.4" rx="2"/><text x="609.3" y="395" text-anchor="middle" font-size="11">5</text>
+<rect class="bar" x="639.6" y="373" width="34.1" height="2" rx="2"/><text x="656.7" y="395" text-anchor="middle" font-size="11">6</text>
+<rect class="bar" x="687" y="374.6" width="34.1" height="0.4" rx="2"/><text x="704" y="395" text-anchor="middle" font-size="11">7</text>
+<rect class="bar" x="734.3" y="374.9" width="34.1" height="0.1" rx="2"/><text x="751.3" y="395" text-anchor="middle" font-size="11">8</text>
+<line class="axis" x1="65" y1="45" x2="65" y2="375"/><line class="axis" x1="65" y1="375" x2="775" y2="375"/>
+<text x="400" y="420" text-anchor="middle" font-size="14">Final goal differential (team − opponent)</text>
+<text x="16" y="215" text-anchor="middle" transform="rotate(-90 16 215)" font-size="14">Probability</text>
+</svg>
