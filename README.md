@@ -3,7 +3,7 @@
 A stochastic modeling project for estimating **real-time win / draw / loss probabilities** in soccer. The project combines Poisson goal processes, continuous-time Markov chains, maximum-likelihood estimation, the Skellam distribution, time-varying intensities, Monte Carlo simulation, and event-level xG data.
 
 <p align="center">
-  <img src="figures/home_wdl_curve.png" width="760" alt="Conditional live win, draw and loss probabilities if the score remains tied">
+  <img src="figures/home_wdl_curve.svg" width="760" alt="Conditional live win, draw and loss probabilities if the score remains tied">
 </p>
 
 ## Why this project
@@ -142,7 +142,7 @@ Raw third-party data are not committed to this repository. See [`data/README.md`
 
 ## Tech
 
-Python · NumPy · pandas · SciPy · scikit-learn · Matplotlib · StatsBombPy · Jupyter
+Python · NumPy · pandas · SciPy · Matplotlib · StatsBombPy · Jupyter
 
 ## Author
 
