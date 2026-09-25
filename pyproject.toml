@@ -1,0 +1,10 @@
+[project]
+name = "live-soccer-win-probability"
+version = "0.1.0"
+description = "Stochastic models for live soccer win/draw/loss probability forecasting"
+requires-python = ">=3.10"
+authors = [{name = "Josef Sarfati Korich"}]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
